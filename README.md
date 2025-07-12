@@ -59,6 +59,15 @@ python main.py report
 ```
 *Creates a text file with all your data - easy to share!*
 
+> 📝 **Note About Reports Folder:**
+
+Currently, this project doesn't include a pre-generated report file.
+
+But don’t worry! As soon as you run the command below, the tool will create one automatically:
+
+```bash
+python main.py report
+
 ### Step 5: Set Safety Alert
 ```bash
 python main.py threshold --set 2.0
