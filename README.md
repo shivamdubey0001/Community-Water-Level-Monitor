@@ -59,15 +59,6 @@ python main.py report
 ```
 *Creates a text file with all your data - easy to share!*
 
-> 📝 **Note About Reports Folder:**
-
-Currently, this project doesn't include a pre-generated report file.
-
-But don’t worry! As soon as you run the command below, the tool will create one automatically:
-
-```bash
-python main.py report
-
 ### Step 5: Set Safety Alert
 ```bash
 python main.py threshold --set 2.0
@@ -132,6 +123,7 @@ Water-level-monitor/
 ├── graph.png            # Generated graph image (created when you run graph command)
 ├── requirements.txt     # List of tools needed
 ├── README.md           # This file you're reading
+└── reports/            # Where reports get saved 
 ```
 
 ---
@@ -182,6 +174,12 @@ If you're stuck anywhere or have questions, just reach out! I'm always happy to 
 ## 🎉 Final Words
 
 This tool is completely free and open for everyone. Use it, modify it, share it - whatever helps your community stay safe!
+
+Remember: Small tools can make big differences. Stay safe, stay informed! 🌊
+
+---
+
+*Made with ❤️ for communities everywhere*
 
 Remember: Small tools can make big differences. Stay safe, stay informed! 🌊
 
