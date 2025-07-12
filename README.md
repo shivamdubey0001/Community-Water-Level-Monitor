@@ -100,7 +100,7 @@ Water Level Readings (Total: 2)
 1. Prayagra : 1.8m on 2025-07-01 12:48:52
 2. Mumbai : 2.3m on 2025-07-01 13:15:49
 ================================================
-Last updated: 2025-07-12 13:15:49
+Last updated: 2025-07-01 13:15:49
 ```
 
 The tool keeps track of everything - city names, water levels, and timestamps. Super easy to understand at a glance!
